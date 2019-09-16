@@ -23,6 +23,7 @@
 ## in PoC
 - js/wasm (will be deployed via CDN)
 
+## Possible Platforms
 Contact us / create a ticket, if you need more Platforms:
 eg.
 - windows/arm
