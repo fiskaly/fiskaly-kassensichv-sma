@@ -1,5 +1,7 @@
 # fiskaly SMAERS
 
+Note, that this SMAERS component is **not certified** (yet)!
+
 ## Available Platforms: 
 - iOS / MacOS (see darwin)
 
